@@ -1,15 +1,13 @@
 {
   "update": {
-    "latestVersion": "3.0.0",
-    "downloadUrl": "https://github.com/Shrawan13-glitch/AuramusicExpo/releases/download/v3.0/universal.apk",
+    "latestVersion": "3.1",
+    "downloadUrl": "https://github.com/Shrawan13-glitch/AuramusicExpo/releases/download/v3.1/universal.apk",
     "notes": [
-      "Complete UI overhaul.",
-      "new Material Design",
-      "Fixed Streaming issues.",
-      "Fixed delays in fetching lyrics.",
-      "better and faster downloads.",
-      "cleaner smoother and better animations."
-]
+      "Auramusic is now Mediyo",
+      "Added OTA support.",
+      "Project moved under TeamShryne",
+      "internal project adjustments and cleanup"
+    ]
 ,
     "isStrict": "true"
   }
